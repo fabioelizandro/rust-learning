@@ -1,0 +1,8 @@
+[package]
+name = "kata-bank-ocr"
+version = "0.0.1"
+authors = ["Fabio Elizandro <fabio@elizandro.com.br"]
+
+[dependencies]
+
+rand = "0.3.0"
